@@ -11,7 +11,7 @@ public class TestController {
 	@GetMapping("tests")
 	public String getAll()
 	{
-		return "hello";
+		return "hello From Git Testing";
 	}
 	
 
