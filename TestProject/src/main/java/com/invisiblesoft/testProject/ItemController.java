@@ -9,7 +9,7 @@ import com.invisiblesoft.testProject.model.Item;
 public class ItemController {
 	
 	//This is comment in getItemMethod
-	//This is Second commit
+	
 	
 	@GetMapping("items")
 	public Item getItem()
